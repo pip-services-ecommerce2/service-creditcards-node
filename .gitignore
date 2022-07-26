@@ -1,0 +1,9 @@
+/node_modules
+/package-lock.json
+/npm-debug.log
+/.idea
+/data/credit_cards.test.json
+/data/credit_cards.json
+/obj/test
+/docker/id_rsa*
+/docker/.npmrc
